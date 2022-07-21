@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HKS Rajnish Task</string>
+    <string name="sign_up">Sign Up From Here</string>
+    <string name="Remember_me">Remember Me</string>
+    <string name="password">Password</string>
+    <string name="Forget_password">Forget Password</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">Email Id</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Sign In Now</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="mid_value">Mid</string>
+    <string name="tid_value">Tid</string>
+    <string name="amount">Amount</string>
+    <string name="narration_value">Narration</string>
+    <string name="new_user">Donot you have Account Sign Up Here</string>
+</resources>

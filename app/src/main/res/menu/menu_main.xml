@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchingBtn"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search Data"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView">
+
+    </item>
+    <item
+        android:id="@+id/mid_a"
+        android:title="Sort By Mid"
+        app:showAsAction="never">
+
+    </item>
+
+    <item
+        android:id="@+id/tid_a"
+        android:title="Sort by Tid"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/amount_a"
+        android:title="Sort by Amount"
+        app:showAsAction="never">
+
+    </item>
+    <item
+        android:id="@+id/narration_a"
+        android:title="Sort by Narration"
+        app:showAsAction="never">
+
+    </item>
+</menu>
